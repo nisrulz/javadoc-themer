@@ -10,6 +10,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
     <title>Javadoc Themer</title>
+    <script type="text/javascript" src="dist/js/less.min.js"></script>
     <!-- Bootstrap core CSS -->
     <link href="dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="dist/css/bootstrap-colorpicker.min.css" rel="stylesheet">
@@ -34,28 +35,29 @@
                     <li role="presentation" class="active"><a href="#">Github</a></li>
                 </ul>
             </nav>
-            <h3 class="text-muted">Javadoc Themer</h3>
+            <h3 class="text-muted"> <img src="dist/img/brush.png" style="height:1.1em;" /> Javadoc Themer</h3>
         </div>
         <div class="jumbotron">
+            <img src="dist/img/brush.png" style="height:6em;" />
             <h1>Javadoc Themer</h1>
             <p class="lead">Theme your javadoc with vibrant colors</p>
         </div>
         <div class="row">
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-4 col-sm-4">
                 <h4>General Border</h4>
                 <div id="cp0" class="input-group colorpicker-component">
                     <input type="text" value="#00AABB" class="form-control" />
                     <span class="input-group-addon"><i></i></span>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-4 col-sm-4">
                 <h4>Fonts, Background</h4>
                 <div id="cp1" class="input-group colorpicker-component">
                     <input type="text" value="#00AABB" class="form-control" />
                     <span class="input-group-addon"><i></i></span>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-4 col-sm-4">
                 <h4>Toolbar</h4>
                 <div id="cp2" class="input-group colorpicker-component">
                     <input type="text" value="#00AABB" class="form-control" />
@@ -64,21 +66,21 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-4 col-sm-4">
                 <h4>SubNav</h4>
                 <div id="cp3" class="input-group colorpicker-component">
                     <input type="text" value="#00AABB" class="form-control" />
                     <span class="input-group-addon"><i></i></span>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-4 col-sm-4">
                 <h4>Hover</h4>
                 <div id="cp4" class="input-group colorpicker-component">
                     <input type="text" value="#00AABB" class="form-control" />
                     <span class="input-group-addon"><i></i></span>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-4 col-sm-4">
                 <h4>Standard Font</h4>
                 <div id="cp5" class="input-group colorpicker-component">
                     <input type="text" value="#00AABB" class="form-control" />
@@ -87,21 +89,21 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-4 col-sm-4">
                 <h4>Color 6</h4>
                 <div id="cp6" class="input-group colorpicker-component">
                     <input type="text" value="#00AABB" class="form-control" />
                     <span class="input-group-addon"><i></i></span>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-4 col-sm-4">
                 <h4>Color 7</h4>
                 <div id="cp7" class="input-group colorpicker-component">
                     <input type="text" value="#00AABB" class="form-control" />
                     <span class="input-group-addon"><i></i></span>
                 </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-4 col-sm-4">
                 <h4>Visited Link</h4>
                 <div id="cp8" class="input-group colorpicker-component">
                     <input type="text" value="#00AABB" class="form-control" />
@@ -109,7 +111,7 @@
                 </div>
             </div>
         </div>
-         <br/>
+        <br/>
         <div class="row">
             <div class="col-lg-12">
                 <button class="btn btn-primary" onclick="download();">Generate</button>
@@ -127,7 +129,6 @@
     <script src="dist/js/bootstrap-colorpicker.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="dist/js/ie10-viewport-bug-workaround.js"></script>
-
     <script type="text/javascript">
     $(function() {
         $('#cp0').colorpicker();
