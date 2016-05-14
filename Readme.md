@@ -1,7 +1,7 @@
 # **Javadoc Themer**
 Give your boooring javadocs a splash of colors!
 
-Goto [webapp](http://crushingcode.byethost5.com/)
+Goto [webapp](http://javadocthemer.crushingcode.co/)
 
 
 ![screenshot](https://github.com/nisrulz/javadoc-themer/raw/master/img/javadocthemer.png)
