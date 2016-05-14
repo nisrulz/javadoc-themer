@@ -1,4 +1,5 @@
 # **Javadoc Themer**
+Give your boooring javadocs a splash of colors!
 
 ###*Command line arguments*
 
