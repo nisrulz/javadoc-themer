@@ -4,6 +4,9 @@ Give your boooring javadocs a splash of colors!
 Goto [webapp](http://javadocthemer.crushingcode.co/)
 
 
+[![Twitter](https://img.shields.io/badge/Twitter-@nisrulz-blue.svg?style=flat)](http://twitter.com/nisrulz)
+
+
 ![screenshot](https://github.com/nisrulz/javadoc-themer/raw/master/img/javadocthemer.png)
 
 ![screenshotdiff](https://github.com/nisrulz/javadoc-themer/raw/master/img/javadocdiff.png)
