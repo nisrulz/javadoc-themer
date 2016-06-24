@@ -4,7 +4,7 @@ Give your boooring javadocs a splash of colors!
 Goto [webapp](http://javadocthemer.crushingcode.co/)
 
 ### Featured in
-[![AndroidDev Digest](https://img.shields.io/badge/AndroidDev%20Digest-Issue%20%3A%2023%20July%2C%2016-blue.svg)](http://us2.campaign-archive1.com/?u=869610fc59cf83e08b6e0635a&id=b123cc7fb0&e=abe3a482d3) 
+[![AndroidDev Digest](https://img.shields.io/badge/AndroidDev%20Digest-%2399-blue.svg)](https://www.androiddevdigest.com/digest-99/)
 
 ### Show some :heart:
 [![GitHub stars](https://img.shields.io/github/stars/nisrulz/javadoc-themer.svg?style=social&label=Star)](https://github.com/nisrulz/javadoc-themer) [![GitHub forks](https://img.shields.io/github/forks/nisrulz/javadoc-themer.svg?style=social&label=Fork)](https://github.com/nisrulz/javadoc-themer/fork) [![GitHub watchers](https://img.shields.io/github/watchers/nisrulz/javadoc-themer.svg?style=social&label=Watch)](https://github.com/nisrulz/javadoc-themer) [![GitHub followers](https://img.shields.io/github/followers/nisrulz.svg?style=social&label=Follow)](https://github.com/nisrulz/javadoc-themer)  
