@@ -10,8 +10,14 @@ Goto [webapp](http://javadocthemer.crushingcode.co/)
 [![GitHub stars](https://img.shields.io/github/stars/nisrulz/javadoc-themer.svg?style=social&label=Star)](https://github.com/nisrulz/javadoc-themer) [![GitHub forks](https://img.shields.io/github/forks/nisrulz/javadoc-themer.svg?style=social&label=Fork)](https://github.com/nisrulz/javadoc-themer/fork) [![GitHub watchers](https://img.shields.io/github/watchers/nisrulz/javadoc-themer.svg?style=social&label=Watch)](https://github.com/nisrulz/javadoc-themer) [![GitHub followers](https://img.shields.io/github/followers/nisrulz.svg?style=social&label=Follow)](https://github.com/nisrulz/javadoc-themer)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/nisrulz.svg?style=social)](https://twitter.com/nisrulz) 
 
+-
+## Web app screenshot
 
 ![screenshot](https://github.com/nisrulz/javadoc-themer/raw/master/img/javadocthemer.png)
+
+-
+
+## Output
 
 ![screenshotdiff](https://github.com/nisrulz/javadoc-themer/raw/master/img/javadocdiff.png)
 
@@ -32,6 +38,12 @@ hence your complete command line arguments becomes
 -bootclasspath <location_of_android_sdk>/platforms/android-23/android.jar -encoding UTF-8 -docencoding utf-8 -charset utf-8 -tag custom.package:a:"Package" -tag custom.company:a:"Company"  -stylesheetfile <location_of_generated_stylesheet>/javadoc_stylesheet.css
 ```
 
+# Pull Requests
+I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
+
+
+### Created & Maintained By
+[Nishant Srivastava](https://github.com/nisrulz) ([@nisrulz](https://www.twitter.com/nisrulz))
 
 License
 =======
