@@ -10,12 +10,10 @@ Goto [webapp](http://javadocthemer.crushingcode.co/)
 [![GitHub stars](https://img.shields.io/github/stars/nisrulz/javadoc-themer.svg?style=social&label=Star)](https://github.com/nisrulz/javadoc-themer) [![GitHub forks](https://img.shields.io/github/forks/nisrulz/javadoc-themer.svg?style=social&label=Fork)](https://github.com/nisrulz/javadoc-themer/fork) [![GitHub watchers](https://img.shields.io/github/watchers/nisrulz/javadoc-themer.svg?style=social&label=Watch)](https://github.com/nisrulz/javadoc-themer) [![GitHub followers](https://img.shields.io/github/followers/nisrulz.svg?style=social&label=Follow)](https://github.com/nisrulz/javadoc-themer)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/nisrulz.svg?style=social)](https://twitter.com/nisrulz) 
 
--
 ## Web app screenshot
 
 ![screenshot](https://github.com/nisrulz/javadoc-themer/raw/master/img/javadocthemer.png)
 
--
 
 ## Output
 
@@ -44,6 +42,8 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 
 ### Created & Maintained By
 [Nishant Srivastava](https://github.com/nisrulz) ([@nisrulz](https://www.twitter.com/nisrulz))
+
+> If you can't get the webapp to load in Safari or Mozilla, then please allow cookies to be downloaded. [Reference](https://github.com/nisrulz/javadoc-themer/issues/2)
 
 License
 =======
