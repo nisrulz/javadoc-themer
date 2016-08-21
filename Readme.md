@@ -43,8 +43,6 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 ### Created & Maintained By
 [Nishant Srivastava](https://github.com/nisrulz) ([@nisrulz](https://www.twitter.com/nisrulz))
 
-> If you can't get the webapp to load in Safari or Mozilla, then please allow cookies to be downloaded. [Reference](https://github.com/nisrulz/javadoc-themer/issues/2)
-
 License
 =======
 
