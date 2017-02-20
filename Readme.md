@@ -17,7 +17,7 @@ Goto [webapp](https://javadoc-themer.firebaseapp.com/)
 
 ## Output
 
-![screenshotdiff](https://github.com/nisrulz/javadoc-themer/raw/master/img/javadocdiff.png)
+![screenshotdiff](/public/img/javadocdiff.png)
 
 ###*Command line arguments*
 
