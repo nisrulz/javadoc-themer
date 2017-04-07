@@ -22,7 +22,7 @@ Goto [webapp](https://javadoc-themer.firebaseapp.com/)
 ###*Command line arguments*
 
 ```bash
--bootclasspath <location_of_android_sdk>/platforms/android-23/android.jar -encoding UTF-8 -docencoding utf-8 -charset utf-8 -stylesheetfile <location_of_generated_stylesheet>/javadoc_stylesheet.css
+-encoding UTF-8 -docencoding utf-8 -charset utf-8 -stylesheetfile <location_of_generated_stylesheet>/javadoc_stylesheet.css 
 
 ```
 If you want to use/include custom tags in your javadoc, use `-tag custom.<tagname>:a:"<Tag_Title_in_Javadoc>"` i.e
@@ -33,7 +33,7 @@ If you want to use/include custom tags in your javadoc, use `-tag custom.<tagnam
 
 hence your complete command line arguments becomes
 ```bash
--bootclasspath <location_of_android_sdk>/platforms/android-23/android.jar -encoding UTF-8 -docencoding utf-8 -charset utf-8 -tag custom.package:a:"Package" -tag custom.company:a:"Company"  -stylesheetfile <location_of_generated_stylesheet>/javadoc_stylesheet.css
+-encoding UTF-8 -docencoding utf-8 -charset utf-8 -tag custom.package:a:"Package" -tag custom.company:a:"Company"  -stylesheetfile <location_of_generated_stylesheet>/javadoc_stylesheet.css
 ```
 
 # Pull Requests
