@@ -19,7 +19,7 @@ Goto [webapp](https://javadoc-themer.firebaseapp.com/)
 
 ![screenshotdiff](/public/img/javadocdiff.png)
 
-###*Command line arguments*
+### *Command line arguments*
 
 ```bash
 -encoding UTF-8 -docencoding utf-8 -charset utf-8 -stylesheetfile <location_of_generated_stylesheet>/javadoc_stylesheet.css 
