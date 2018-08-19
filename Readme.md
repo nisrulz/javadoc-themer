@@ -44,7 +44,7 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 [Nishant Srivastava](https://github.com/nisrulz) ([@nisrulz](https://www.twitter.com/nisrulz))
 
 > If you found this tool helpful in any way and want to thank me, consider buying me a cup of :coffee:
->  + [PayPal](https://www.paypal.me/nisrulz/5)
+>  + [PayPal](https://www.paypal.me/nisrulz/5usd)
 >  + Bitcoin Address: 13PjuJcfVW2Ad81fawqwLtku4bZLv1AxCL
 
 License
