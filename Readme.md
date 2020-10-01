@@ -1,7 +1,7 @@
 # **Javadoc Themer**
-Give your boooring javadocs a splash of colors!
+Give your boring javadocs a splash of coluors!
 
-Goto [webapp](https://javadoc-themer.firebaseapp.com/)
+Go to [webapp](https://javadoc-themer.firebaseapp.com/)
 
 ### Featured in
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-javadoc--themer-green.svg?style=true)](https://android-arsenal.com/details/1/4196) [![AndroidDev Digest](https://img.shields.io/badge/AndroidDev%20Digest-%2399-blue.svg)](https://www.androiddevdigest.com/digest-99/)
