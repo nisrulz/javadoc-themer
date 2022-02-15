@@ -1,7 +1,8 @@
-# **Javadoc Themer**
+# Javadoc Themer
+
 Give your boooring javadocs a splash of colors!
 
-Goto [webapp](https://javadoc-themer.firebaseapp.com/)
+Goto [webapp](https://nisrulz.com/javadoc-themer/)
 
 ### Featured in
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-javadoc--themer-green.svg?style=true)](https://android-arsenal.com/details/1/4196) [![AndroidDev Digest](https://img.shields.io/badge/AndroidDev%20Digest-%2399-blue.svg)](https://www.androiddevdigest.com/digest-99/)
@@ -35,16 +36,6 @@ hence your complete command line arguments becomes
 ```bash
 -encoding UTF-8 -docencoding utf-8 -charset utf-8 -tag custom.package:a:"Package" -tag custom.company:a:"Company"  -stylesheetfile <location_of_generated_stylesheet>/javadoc_stylesheet.css
 ```
-
-# Pull Requests
-I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
-
-
-### Created & Maintained By
-[Nishant Srivastava](https://github.com/nisrulz) ([@nisrulz](https://www.twitter.com/nisrulz))
-
-If you appreciate my work, consider [buying me](https://www.paypal.me/nisrulz/5usd) a cup of :coffee: to keep me recharged :metal: [[PayPal](https://www.paypal.me/nisrulz/5usd)]
-
 
 License
 =======
